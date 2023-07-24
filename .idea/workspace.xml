@@ -5,15 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec4c2f3f-41ef-4827-9f06-cabd4eb44284" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaUtil-Alura.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/byteBank/test/TestArregloReferencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/byteBank/test/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/modelo/Administrador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/modelo/Administrador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/modelo/Autenticable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/modelo/Autenticable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/modelo/AutenticacionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/modelo/AutenticacionUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/modelo/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/modelo/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/modelo/Contador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/modelo/Contador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/modelo/ControlBonificacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/modelo/ControlBonificacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/modelo/Cuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/modelo/Cuenta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/modelo/CuentaAhorros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/modelo/CuentaAhorros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/modelo/CuentaCorriente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/modelo/CuentaCorriente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/modelo/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/modelo/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/modelo/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/modelo/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/modelo/GuardaCuentas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/modelo/GuardaCuentas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/modelo/GuardaReferencias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/modelo/GuardaReferencias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/modelo/SaldoInsuficienteException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/modelo/SaldoInsuficienteException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/modelo/SistemaInterno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/modelo/SistemaInterno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/test/TestArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/test/TestArregloReferencias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestArregloReferencias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/test/TestControlBonificacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestControlBonificacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/test/TestCuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestCuenta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/test/TestCuentaExceptionSaldo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestCuentaExceptionSaldo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/test/TestFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestFuncionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/test/TestGerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestGerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/test/TestGuardaCuentas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestGuardaCuentas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/test/TestGuardaReferencias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestGuardaReferencias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/test/TestLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestLambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/test/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/test/TestOrdenarLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestOrdenarLista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/test/TestReferencias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestReferencias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/test/TestRepasoArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestRepasoArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/test/TestSistemaInterno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestSistemaInterno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/test/TestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteBank/test/TestWrappers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytebank/test/TestWrappers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +55,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2T2LsQXpqwC90AQfEzEQjf3VtMV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -44,10 +71,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/lagrimasnegras/IdeaProjects/javaUtil-Alura/src",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="byteBank" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
